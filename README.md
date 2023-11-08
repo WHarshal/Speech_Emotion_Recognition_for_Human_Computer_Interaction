@@ -6,7 +6,7 @@ This project focuses on developing a Speech Emotion Recognition (SER) system cap
 
 ## Features
 
-- **Dataset:** Obtain a diverse dataset of audio recordings containing speech samples across different emotions.
+- **Dataset:** Obtain a diverse dataset of audio recordings containing speech samples across different emotions. The dataset is collected from Kaggle (https://www.kaggle.com/datasets/dmitrybabko/speech-emotion-recognition-en/data).
 - **Preprocessing:** Preprocess the audio data to extract relevant features, handle varying lengths, and ensure consistency.
 - **Model Development:** Design and implement a deep learning model for speech emotion recognition, experimenting with different architectures.
 - **Training and Validation:** Train the model on a substantial portion of the dataset, reserving a subset for validation to prevent overfitting.
